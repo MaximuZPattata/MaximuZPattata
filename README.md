@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MaximuZPattata
 - 👀 I’m interested in coding and gaming
-- 🌱 I’m currently learning C, C+
+- 🌱 I’m currently learning C, C++, OpenGL
 
 <!---
 MaximuZPattata/MaximuZPattata is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
